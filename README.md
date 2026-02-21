@@ -1,3 +1,5 @@
+This repository contains my contribution to a collaborative MS Applied Data Science capstone project. I worked on data ingestion, feature engineering, and regression model development.
+
 # Capstone Project: Predicting YouTube Video Popularity
 
 This project aims to predict the popularity of YouTube videos using publicly available metadata. By analyzing keywords, publication time, and channel statistics, we use machine learning models to estimate expected video views.
